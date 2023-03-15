@@ -1,59 +1,17 @@
-## Introduction
+In the 'Project' window. Make sure that you are inside the 'Materials' folder.
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Right-click and select 'Create' -> 'Material'. Name the new material 'Glass'.
 
-### What you will make
+![A screenshot showing the menu with 'Create' and 'Material' highlighted.](images/create-material.png)
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+With the 'Glass' material selected. Go to the 'Inspector' window.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+Change the 'Rendering Mode' to 'Transparent'.
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+Set 'Metallic' to `0.5` and set 'Smoothness' to `0.5`.
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+![A screenshot showing the new settings in the 'Inspector' window.](images/glass-settings.png)
 
-+ A computer or tablet capable of running Scratch 3
+Click on the white paint sample next to 'Albedo' and set the 'Alpha' channel to `0`.
 
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+![A screenshot showing the 'Alpha' channel, marked with an 'A', set to `0`.](images/alpha-0.png)

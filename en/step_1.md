@@ -1,10 +1,10 @@
-In the 'Project' window. Make sure that you are inside the 'Materials' folder.
+In the Project window. Make sure that you are inside the Materials folder.
 
-Right-click and select 'Create' -> 'Material'. Name the new material 'Glass'.
+Right-click and select **Create > Material**. Name the new material 'Glass'.
 
 ![A screenshot showing the menu with 'Create' and 'Material' highlighted.](images/create-material.png)
 
-With the 'Glass' material selected. Go to the 'Inspector' window.
+With the 'Glass' material selected, go to the Inspector window.
 
 Change the 'Rendering Mode' to 'Transparent'.
 
